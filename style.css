@@ -1,0 +1,32 @@
+body {
+    background-color: #eaece5;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.singleIssue {
+    text-align: center;
+    border: solid #b2c2bf;
+    border-radius: 12px;
+    color: #3b3a30;
+    padding: 2px;
+    margin: 7px;
+    
+}
+.singleIssue:hover {
+    cursor: pointer;
+    background-color: #c0ded9;
+}
+button {
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 12px;
+    background-color: #c0ded9;
+    border: solid #eaece5;
+}
+button:hover {
+    cursor: pointer;
+    background-color: #b2c2bf ;
+}
+#btnArea {
+    color: #3b3a30;
+    text-align:center;
+}
